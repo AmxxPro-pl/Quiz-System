@@ -11,6 +11,7 @@
 - Waluta ustawiona domyślnie - Monety (bardzo łatwe do zmiany)
 - Odczytywanie pytań z pliku quiz.ini
 - Odczytywanie cvarów z pliku quiz.cfg
+- Zmiany w pluginie: <b>[TUTAJ](https://github.com/AmxxPro-pl/Quiz-System/releases/tag/latest)</b>
 
 ### Configure
 <details>
