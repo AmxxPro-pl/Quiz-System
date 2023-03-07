@@ -1,6 +1,6 @@
 <div align="center">
 <h1><p></p>Quiz System<p></p></h1>
-<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner.png"></img>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner-new.png"></img>
 </div>
 
 ---
@@ -23,12 +23,12 @@
 ;           Strona: © AmxxPro.pl
 
 ; Instrukcja dodawania pytania:
-; "Pytanie" "Odpowiedz"
+; "Pytanie" "Odpowiedz" "Druga Odpowiedz"
 
 
-"Wiecej niz jedno zwierze to?" "Lama"
-"Co lezy i nie dycha?" "Dwie dychy"
-"Ile cm ma metr?" "100"
+"Wiecej niz jedno zwierze to?" "Lama" "Stado"
+"Co lezy i nie dycha?" "Dwie dychy" "2 dychy"
+"Ile cm ma metr?" "100" "Sto"
 
 ;===================== » QUIZ « =====================
 ```
@@ -42,8 +42,8 @@
 //                     Autor pluginu: N1K1Cz
 //                     Strona: © AmxxPro.pl
 
-//Glowny prefix pluginu ( [» AmxxPro.pl «] - Domyślnie )
-amxxpro_quiz_prefix "[» AmxxPro.pl «]"
+//Glowny prefix pluginu ( AmxxPro.pl - Domyślnie )
+amxxpro_quiz_prefix "AmxxPro.pl"
 
 //Ile kredytow ma byc przyznawane za poprawna odpowiedz? ( 150 - Domyślnie )
 amxxpro_quiz_credits "150"
