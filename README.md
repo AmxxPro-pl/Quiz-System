@@ -23,7 +23,7 @@
 ;           Strona: © AmxxPro.pl
 
 ; Instrukcja dodawania pytania:
-; "Pytanie" "Odpowiedz" "Druga Odpowiedz"
+; "Pytanie" "Odpowiedz" "Druga Odpowiedz (jeżeli brak to wpisz taka sama odpowiedz jak pierwsza)"
 
 
 "Wiecej niz jedno zwierze to?" "Lama" "Stado"
