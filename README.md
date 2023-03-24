@@ -19,18 +19,18 @@
 
 ```
 ;===================== » QUIZ « =====================
-;           Autor pluginu: N1K1Cz
+;           Aut(h)or pluginu: N1K1Cz
 ;           Strona: © AmxxPro.pl
 
 ; Instrukcja dodawania pytania:
-; "Pytanie" "Odpowiedz" "Druga Odpowiedz (jeżeli brak to wpisz taka sama odpowiedz jak pierwsza)"
-
+; "Pytanie" "Odpowiedz" "Druga Odpowiedz (jezeli brak to zostaw puste)"
 
 "Wiecej niz jedno zwierze to?" "Lama" "Stado"
-"Co lezy i nie dycha?" "Dwie dychy" "2 dychy"
-"Ile cm ma metr?" "100" "Sto"
+"Co lezy i nie dycha?" "Dwie dychy" ""
+"Ile cm ma metr?" "100" "sto"
 
 ;===================== » QUIZ « =====================
+
 ```
 </details>
 
@@ -39,7 +39,7 @@
 
 ```
 //===================== » QUIZ - Configuration « =====================
-//                     Autor pluginu: N1K1Cz
+//                     Aut(h)or pluginu: N1K1Cz
 //                     Strona: © AmxxPro.pl
 
 //Glowny prefix pluginu ( AmxxPro.pl - Domyślnie )
@@ -48,7 +48,11 @@ amxxpro_quiz_prefix "AmxxPro.pl"
 //Ile kredytow ma byc przyznawane za poprawna odpowiedz? ( 150 - Domyślnie )
 amxxpro_quiz_credits "150"
 
+//Co ile sekund ma byc losowane pytanie? ( 360 - Domyślnie )
+amxxpro_quiz_time "360"
+
 //===================== » QUIZ - Configuration « =====================
+
 ```
 </details>
 
